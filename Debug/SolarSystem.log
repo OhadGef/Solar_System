@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\ohad\documents\visual studio 2015\projects\solar-system\main.cpp(32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\ohad\documents\visual studio 2015\projects\solar-system\main.cpp(118): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\ohad\documents\visual studio 2015\projects\solar-system\main.cpp(137): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  SolarSystem.vcxproj -> C:\Users\Ohad\Documents\Visual Studio 2015\Projects\Solar-system\Debug\SolarSystem.exe
